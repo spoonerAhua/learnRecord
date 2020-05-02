@@ -1,1 +1,11 @@
-Jenkins+Java+Git+Maven in Docker
+ - jenkins2.222.3.war
+   https://www.jenkins.io/download/ 
+   
+ - jdk-8u251-linux-x64.rpm  :
+   https://www.oracle.com/java/technologies/javase-downloads.html
+ 
+- git-2.26.2.tar.gz     
+   https://git-scm.com/downloads
+
+- apache-maven-3.6.3-bin.tar.gz
+  http://maven.apache.org/download.cgi
